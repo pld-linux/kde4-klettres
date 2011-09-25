@@ -5,14 +5,14 @@ Summary:	K Desktop Environment - Helps child to learn alphabet and to read some 
 Summary(pl_PL.UTF8):	K Desktop Environment - Pomoc w nauce alfabetu i sylab dla dzieci
 Name:		klettres
 Version:	4.7.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Science
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.bz2
 # Source0-md5:	e3176f534baf92ba91100499966e17a8
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
-Obsoletes:	kde4-kdeedu-klettres < 4.7.0
+Obsoletes:	kde4-kdeedu-klettres < 4.6.99
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
