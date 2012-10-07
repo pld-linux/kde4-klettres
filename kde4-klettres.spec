@@ -2,7 +2,7 @@
 %define		orgname		klettres
 
 Summary:	K Desktop Environment - Helps child to learn alphabet and to read some syllables
-Summary(pl_PL.UTF8):	K Desktop Environment - Pomoc w nauce alfabetu i sylab dla dzieci
+Summary(pl.UTF-8):	K Desktop Environment - Pomoc w nauce alfabetu i sylab dla dzieci
 Name:		kde4-klettres
 Version:	4.9.1
 Release:	1
